@@ -1,5 +1,5 @@
 /*
-8. Check whther the give string is a subsequnce of the plaintext alphabet.
+9. Check whther the give string is a subsequnce of the plaintext alphabet.
 
 
 example:
