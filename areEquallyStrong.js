@@ -1,5 +1,5 @@
 /*
-10. Are Equally Strong
+11. Are Equally Strong
 
 -Call two arms equally strong if the heaviest weights they are each able to lift are equal.
 -Call two people equally strong if their strongest arms are equally strong (the strongest arm can be both right and left),
