@@ -16,8 +16,6 @@ sequence [1,3,2], the output should be true
 
 */
 
-
-// get can of coke at 10:50
 function almostIncreasingSequence(arr){
 
     let wrongCounter = 0;
