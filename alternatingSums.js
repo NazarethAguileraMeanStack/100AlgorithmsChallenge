@@ -1,5 +1,5 @@
 /*
-9. Alternating Sums
+10. Alternating Sums
 
 -Several people are standing in a row and need to be divided into two teams.
 The first person goes into team 1, the second goes to team 2, the third goes
